@@ -1,0 +1,20 @@
+[
+ {
+  "id": "jarvis",
+  "pkg": "com.jarvis.car",
+  "name": "Джарвис (мод. сборка)",
+  "version": "10.10",
+  "note": "Ссылка на все приложения: https://mega.nz/folder/T45kmZxR#XUo75FYEDxh1HT2MlQ4g6A",
+  "file": "https://github.com/mazovckiy-star/jarvis-store/releases/download/v1.0/JarvisChery-10.10.apk",
+  "size": 116975917
+ },
+ {
+  "id": "hudspeed",
+  "pkg": "ru.hudspeed.radarbase",
+  "name": "HUD Speed (база камер)",
+  "version": "7.7.1",
+  "note": "Антирадар с официальной базой; зеркало: mega.nz/folder/T45kmZxR#XUo75FYEDxh1HT2MlQ4g6A",
+  "file": "https://github.com/mazovckiy-star/jarvis-store/releases/download/v1.0/hudspeed-radarbase.apk",
+  "size": 17060322
+ }
+]
