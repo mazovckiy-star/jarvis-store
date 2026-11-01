@@ -10,7 +10,7 @@
  },
  {
   "id": "hudspeed",
-  "pkg": "ru.hudspeed.radarbase",
+  "pkg": "air.StrelkaHUDFREE",
   "name": "HUD Speed (база камер)",
   "version": "7.7.1",
   "note": "Антирадар с официальной базой; зеркало: mega.nz/folder/T45kmZxR#XUo75FYEDxh1HT2MlQ4g6A",
