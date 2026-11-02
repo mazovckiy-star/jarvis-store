@@ -1,0 +1,16 @@
+{
+  "stable": {
+    "code": 11111,
+    "name": "11.11",
+    "notes": "Текущая версия",
+    "file": "https://github.com/mazovckiy-star/jarvis-store/releases/download/v1.1/JarvisChery-11.11-fixed.apk",
+    "size": 117341368
+  },
+  "beta": {
+    "code": 0,
+    "name": "",
+    "notes": "",
+    "file": "",
+    "size": 0
+  }
+}
